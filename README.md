@@ -17,7 +17,10 @@ User can't add invalid Emile Id and also user can't assign task status else then
 <br><br><br>
 <h1>TO_DO</h1>
 1> Re-install all the npm pakages
+<br>
 2> type nodemon app.js to run application
+<br>
 3> than you just hade to postmen to test all the api that i have create in this project.
+<br>
 <br>
 THANK YOU
